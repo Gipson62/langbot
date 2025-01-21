@@ -1,0 +1,6 @@
+import "std/io"
+
+func main() {
+    //There is still 
+    print_int(1);
+}
